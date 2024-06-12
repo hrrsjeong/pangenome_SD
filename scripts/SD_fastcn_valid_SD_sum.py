@@ -1,5 +1,4 @@
 import sys,glob,os
-#asm size of NA18939 and HG02018 is weird
 dd_contig = {}
 dd_ragtag = {}
 dd_ragtag_acro = {}
